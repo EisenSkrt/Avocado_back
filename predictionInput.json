@@ -1,0 +1,19 @@
+[
+{
+    "model": "predictor.predictioninput",
+    "pk": 1,
+    "fields": {
+        "total_volume": 1,
+        "small_avo": 1,
+        "large_avo": 1,
+        "xl_avo": 1,
+        "total_bags": 1,
+        "small_bags": 1,
+        "large_bags": 1,
+        "xl_bags": 1,
+        "type": "ORG",
+        "year": 2015,
+        "region": "Israel"
+    }
+}
+]
